@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "branch": "udc",
+    "repository": "Chuqol/android_hardware_oplus",
+    "target_path": "hardware/oplus"
+  },
+  {
+    "remote": "github",
+    "branch": "udc",
+    "repository": "Chuqol/android_kernel_oneplus_sm8250",
+    "target_path": "kernel/oneplus/sm8250"
+  },
+  {
+    "remote": "github",
+    "repository": "Chuqol/proprietary_vendor_oneplus_sm8250-common-OOS-14",
+    "branch": "udc",
+    "target_path": "vendor/oneplus/sm8250-common"
+  }
+]
